@@ -2,7 +2,7 @@
 <!DOCTYPE modification SYSTEM "http://www.simplemachines.org/xml/modification">
 <modification xmlns="http://www.simplemachines.org/xml/modification" xmlns:smf="http://www.simplemachines.org/">
 	<id>NEND:postkarma</id>
-	<version>0.2</version>
+	<version>0.2.1</version>
 	<file name="$sourcedir/Karma.php">
 		<operation>
 			<search position="before"><![CDATA[		$smcFunc['db_insert']('replace',

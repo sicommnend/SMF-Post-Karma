@@ -3,7 +3,7 @@
 <package-info xmlns="http://www.simplemachines.org/xml/package-info" xmlns:smf="http://www.simplemachines.org/">
 	<id>NEND:postkarma</id>
 	<name>Post Karma</name>
-	<version>0.2</version>
+	<version>0.2.1</version>
 	<type>modification</type>
 <install>
 	<database>db.php</database>
